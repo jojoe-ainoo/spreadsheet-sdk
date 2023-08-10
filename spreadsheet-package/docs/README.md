@@ -12,7 +12,7 @@ pip install spreadsheet-package==0.1
 
 ## Usage
 
-from spreadsheet.backend import Spreadsheet
+from spreadsheet.core import Spreadsheet
 
 # Create a new spreadsheet instance
 
