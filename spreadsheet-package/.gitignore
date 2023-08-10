@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+
+# Editors
+.vscode/
+.idea/
+
+# Temporary files
+.DS_Store
+Thumbs.db
+
+# Compiled files
+dist/
+build/
+
+# Logs
+*.log
+
+# Environment
+.env
+
+# Compiled Python files
+*.pyc
+
+# Ignore package distribution files
+spreadsheet_package.egg-info/
