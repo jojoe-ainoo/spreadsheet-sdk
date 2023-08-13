@@ -28,3 +28,7 @@ build/
 
 # Ignore package distribution files
 spreadsheet_package.egg-info/
+
+
+# main file
+main.py
